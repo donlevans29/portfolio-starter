@@ -1,4 +1,4 @@
-# portfolio-starter
+# React Portfolio Starter Kit
 Are you a developer looking to start a portfolio project using react but want some boiler plate code?
 
 ### Create React App
@@ -9,8 +9,8 @@ It sets up your development environment so that you can use the latest JavaScrip
 ![image](https://user-images.githubusercontent.com/18158428/159605156-f3602813-bfe3-4923-82f0-34c6f8fcaf72.png)
 
 npx create-react-app my-app
-cd my-app
-npm start
+<br>cd my-app
+<br>npm start
 
 
 Link to react page
